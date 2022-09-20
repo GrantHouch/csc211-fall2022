@@ -17,7 +17,7 @@
 |Friday    |   Matt|  11:00a - 12:00p |
 
 **Discussion Session**
-<br> Location: TBD
+<br> Location: Tyler 052
 
 > Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
 
