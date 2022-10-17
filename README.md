@@ -6,15 +6,15 @@
 **Teaching Assistants:** Yemi Fasina, Matt Hogan, Nadia Sousa, Vincent Zhuang<br>
 
 **Office Hours Schedule**
-<br>Location: Tyler Hall ~ Third (top) Floor Lounge
+<!--Location: Tyler Hall ~ Third (top) Floor Lounge-->
 
-| Day | Staff Member |  Time |
-| --- | --- | --- |
-|Monday |   Nadia <br> Yemi <br> Matt|   10:00a – 12:00p <br> 12:00p - 1:00p <br> 1:00p - 2:00p |
-|Tuesday |   Mike (Tyler 137)|   2:00p - 3:00p|
-|Wednesday   |  Nadia <br> Yemi |  9:00a – 10:00a <br> 2:00p - 4:00p |
-|Thursday   |  Vincent | 1:00p - 2:30p|
-|Friday    |   Matt|  11:00a - 12:00p |
+| Day | Staff Member |  Time |Location |
+| --- | --- | --- | --- |
+|Monday |   Nadia <br> Yemi <br> Matt|   10:00a – 12:00p <br> 12:00p - 1:00p <br> 1:00p - 2:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler third floor lounge |
+|Tuesday | Mike |   2:00p - 3:00p| &emsp; &emsp; Tyler 137 |
+|Wednesday   |  Nadia <br> Yemi |  9:00a – 10:00a <br> 2:00p - 4:00p | Tyler first floor lounge <br> Tyler third floor lounge |
+|Thursday   |  Vincent | 1:00p - 2:30p| &emsp; &emsp; Tyler 052 |
+|Friday    |   Matt|  11:00a - 12:00p | Tyler third floor lounge |
 
 **Discussion Session**
 <br> Location: Tyler 052
@@ -23,7 +23,7 @@
 
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
-|Tuesday |   Vincent |   1:00p – 2:00p  | Tyler 052| 
+|Tuesday |   Vincent |   1:00p – 2:00p  | &emsp; &emsp; &ensp; Tyler 052| 
 |Wednesday |   Matt |   4:00p – 5:00p  |Hybrid / Zoom & Tyler 052|
 
 
